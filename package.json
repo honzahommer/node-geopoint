@@ -1,7 +1,7 @@
 {
   "name": "node-geopoint",
   "description": "JavaScript coordinate conversion library between Decimal Degree and Deg-Min-Sec.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./index.js",
   "scripts": {
     "test": "mocha --timeout 10000"
@@ -14,7 +14,7 @@
   "homepage": "https://github.com/honzahommer/node-geopoint#README",
   "license": "MIT",
   "engines": {
-    "node": ">= 0.12.17"
+    "node": ">= 6.9.1"
   },
   "dependencies": {},
   "devDependencies": {
